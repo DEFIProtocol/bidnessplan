@@ -11,6 +11,7 @@ function Navbar() {
         <Link className="header-item" to="/">Exuecutive Summary</Link>
         <Link className="header-item" to="/ComDesc">Company Description</Link>
         <Link className="header-item" to="/MarkAna">Market Analysis</Link>
+        <Link className="header-item" to="/ProdAndServ">Products And Services</Link>
         <Link className="header-item" to="/MarkStrat">Marketing Strategy</Link>
         <Link className="header-item" to="/OpPlan">Operational Plan</Link>
         <Link className="header-item" to="/FinPro">Financial Projections</Link>
